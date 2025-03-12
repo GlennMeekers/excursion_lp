@@ -5,7 +5,7 @@ body {
   color: #fff;
   background-color: #000;
   text-align: center;
-  padding: 8em;
+  padding: 4em;
 }
 h1,
 h2,
@@ -35,7 +35,7 @@ a {
   text-decoration: underline;
 }
 
-/* utility classes */
-.text-center {
-  text-align: center;
+img,
+video {
+  margin: 2em 0;
 }
